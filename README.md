@@ -1,0 +1,4 @@
+- Hello there! I’m Specterlab
+- I work mostly in java and javascript
+-(01101001) (00100000) (01101011 01101110 01101111 01110111) (00100000) (01100010 01101001 01101110 01100001 01110010 01111001)
+- not much else of note 
